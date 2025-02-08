@@ -37,6 +37,7 @@
       "/var/lib/nixos"
       "/var/lib/systemd/coredump"
       "/etc/NetworkManager/system-connections"
+      "/root/.ssh"
     ];
     files = [
       "/etc/machine-id"
